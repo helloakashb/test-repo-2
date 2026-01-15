@@ -3,7 +3,7 @@
 ## What is JWT?
 **JSON Web Token** - A compact, URL-safe token that contains user information and claims.
 
-## How JWT Works - 
+## How JWT Works - Step by Step
 
 ### 1. User Login Process in details
 ```
