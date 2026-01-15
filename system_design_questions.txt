@@ -1,0 +1,32 @@
+
+============================================================
+ATLASSIAN SYSTEM DESIGN QUESTIONS
+============================================================
+1. Atlassian | P40 | Bangalore | Interview Exp | Offer - Discuss - LeetCode
+2. Design a real-time chat system for teams
+3. Design a notification system
+4. Design a collaborative document editing system like Confluence
+5. Design a project management tool like Jira
+6. System Design Question at Atlassian (Jira): Designing a ... - LeetCode
+7. Atlassian front end system design - Discuss - LeetCode
+8. Design a file sharing platform
+
+============================================================
+PAYPAL SYSTEM DESIGN QUESTIONS
+============================================================
+1. Design a digital wallet
+2. Paypal DSA and System design round - Discuss - LeetCode
+3. Design a payment processing system
+4. Design a merchant payment gateway
+5. Design a fraud detection system
+6. PayPal Interview Experience | Jan 2025 | FullStack Developer
+7. Design a money transfer system
+
+============================================================
+MASTERCARD SYSTEM DESIGN QUESTIONS
+============================================================
+1. Design a global payment network
+2. Design a merchant acquiring platform
+3. Design a loyalty rewards system
+4. Design a real-time fraud detection system
+5. Design a credit card transaction system
