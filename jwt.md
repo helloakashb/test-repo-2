@@ -5,7 +5,7 @@
 
 ## How JWT Works - Step by Step
 
-### 1. User Login Process
+### 1. User Login Process in details
 ```
 User → Server: POST /login {username, password}
 Server: Validates credentials
